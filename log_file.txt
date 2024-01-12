@@ -1,0 +1,1155 @@
+Bot started at: 2024-01-12 12:46:04.521268
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Kamran Ali
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136087.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Zeeshan Younas
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136088.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 3: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x0073EFE7]
+	(No symbol) [0x007AB53B]
+	(No symbol) [0x007B9E7B]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 4: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x0073EFE7]
+	(No symbol) [0x007AB53B]
+	(No symbol) [0x007B9E7B]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+Bot started at: 2024-01-12 13:23:40.514927
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Kamran Ali
+Bot started at: 2024-01-12 14:36:55.251203
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Kamran Ali
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136087.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 2: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x007BA5CA]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 3: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x0073EFE7]
+	(No symbol) [0x007AB53B]
+	(No symbol) [0x007B9E7B]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 4: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x0073EFE7]
+	(No symbol) [0x007AB53B]
+	(No symbol) [0x007B9E7B]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+Bot started at: 2024-01-12 14:49:06.333389
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: me yar tmhara
+Sending message 2: chal nikal
+Uploading attachment: C:\Users\Katib.pk\Downloads\Pencil-G.jpg
+An error occurred in row 1: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\Pencil-G.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: me yar tmhara
+Sending message 2: chal nikal
+Uploading attachment: C:\Users\Katib.pk\Downloads\Pencil-G.jpg
+An error occurred in row 2: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\Pencil-G.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: me yar tmhara
+Sending message 2: chal nikal
+Uploading attachment: C:\Users\Katib.pk\Downloads\Pencil-G.jpg
+An error occurred in row 3: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\Pencil-G.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: me yar tmhara
+Sending message 2: chal nikal
+Uploading attachment: C:\Users\Katib.pk\Downloads\Pencil-G.jpg
+An error occurred in row 4: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\Pencil-G.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+Bot closed at: 2024-01-12 14:50:20.275002
+Bot ran for: 0:01:13.941613
+Number Of Users messaged by the bot: 4
+Bot Is Now Stopped
+Bot started at: 2024-01-12 14:52:34.337764
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 1: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 2: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 3: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 4: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 5: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 6: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 7: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 8: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 9: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 10: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 11: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 12: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00789876]
+	(No symbol) [0x00789C2C]
+	(No symbol) [0x007BBD42]
+	(No symbol) [0x007A7054]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 13: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 14: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 15: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 16: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: hela
+Sending message 2: omer
+Uploading attachment: C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+An error occurred in row 17: Message: invalid argument: File not found : C:\Users\Katib.pk\Downloads\IMG_20240109_201317.jpg
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00785728]
+	(No symbol) [0x007A700C]
+	(No symbol) [0x007825B0]
+	(No symbol) [0x007A7414]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 18: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x00789876]
+	(No symbol) [0x00789C2C]
+	(No symbol) [0x007BBD42]
+	(No symbol) [0x007A7054]
+	(No symbol) [0x007BA104]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+Bot closed at: 2024-01-12 14:59:22.459711
+Bot ran for: 0:06:48.121947
+Number Of Users messaged by the bot: 18
+Bot Is Now Stopped
+Bot started at: 2024-01-12 15:04:15.375235
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Kamran Ali
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136087.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Zeeshan Younas
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136088.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Bot started at: 2024-01-12 15:12:19.806284
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Kamran Ali
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136087.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Zeeshan Younas
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136088.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Wajahat Hussain
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136089.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Shiraz Din
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136090.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+INFO:werkzeug:192.168.100.67 - - [12/Jan/2024 15:14:21] "GET / HTTP/1.1" 200 -
+Sending message 1: Assalam-u-Alaikum, Touseef Jahan
+Sending message 2: Here Is Your Order Invoice
+INFO:werkzeug:192.168.100.67 - - [12/Jan/2024 15:14:35] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1478, in __call__
+    return self.wsgi_app(environ, start_response)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1458, in wsgi_app
+    response = self.handle_exception(e)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\Desktop\Bot\ProjectFolder\app.py", line 50, in upload_file
+    process_file(file_path)
+  File "C:\Users\TICK\Desktop\Bot\ProjectFolder\bot.py", line 76, in process_file
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x0077A756]
+	(No symbol) [0x00777A0F]
+	(No symbol) [0x007AE259]
+	(No symbol) [0x007ADBBA]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+INFO:werkzeug:192.168.100.67 - - [12/Jan/2024 15:14:35] "GET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.100.67 - - [12/Jan/2024 15:14:35] "GET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.100.67 - - [12/Jan/2024 15:14:35] "GET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.100.67 - - [12/Jan/2024 15:14:35] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+Bot started at: 2024-01-12 15:14:28.842259
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136091.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 6: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00B16EE3+174339]
+	(No symbol) [0x00A40A51]
+	(No symbol) [0x00756FF6]
+	(No symbol) [0x007BA5CA]
+	(No symbol) [0x007A6DA6]
+	(No symbol) [0x00781034]
+	(No symbol) [0x00781F8D]
+	GetHandleVerifier [0x00BB4B1C+820540]
+	sqlite3_dbdata_init [0x00C753EE+653550]
+	sqlite3_dbdata_init [0x00C74E09+652041]
+	sqlite3_dbdata_init [0x00C697CC+605388]
+	sqlite3_dbdata_init [0x00C75D9B+656027]
+	(No symbol) [0x00A4FE6C]
+	(No symbol) [0x00A483B8]
+	(No symbol) [0x00A484DD]
+	(No symbol) [0x00A35818]
+	BaseThreadInitThunk [0x775AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Muhammad Asif
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136093.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Mr Zeeshan
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136094.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Syed Hammad Khalid Ali
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136095.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Ashraf Ali
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136096.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Talha
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136097.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Mr. Faizan
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136098.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Syed Hammad Khalid Ali
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136099.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Muhammad Zain F Aisal Amin
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136100.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Abdul Wasay
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136101.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
